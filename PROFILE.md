@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Paikonia
+-My real name is Patrick Aiko
+- 👀 I’m interested in coding and robotics. I majorly do coding because I dont have access to most of the hardware for robotics. I am also interested in artificial intelligence.
+- 🌱 I’m currently learning C and linux system programming and developing a web server. 
+- 💞️ I’m looking to collaborate on building a web Server. 
+- 📫 You can reach me on patrick.aikonia@gmail.com
